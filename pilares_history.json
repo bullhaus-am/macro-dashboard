@@ -1,27 +1,31 @@
 {
-  "generated_at": "2026-04-22T15:07:43",
+  "generated_at": "2026-04-22T15:26:29",
   "count": 31,
   "records": [
     {
       "date": "2026-03-06",
-      "overall_score": 1.5,
+      "overall_score": 1.0,
       "max_score": 6.0,
-      "pct": 25.0,
+      "pct": 16.7,
       "regime": "RISK OFF",
       "pilares": {
         "amplitud": {
-          "score": 0.5,
+          "score": 0.0,
           "primary": 31.9,
           "sub": {
             "above_ema20": 31.9,
             "above_sma50": 39.4,
             "above_sma200": 52.2,
-            "sectors_positive": 0
+            "state_ema20": "BEAR",
+            "state_sma50": "BEAR",
+            "state_sma200": "NEUTRAL",
+            "sectors_positive": 0,
+            "avg_ma_state": 0.167
           },
           "checks": {
-            "above_ema20": false,
-            "above_sma50": false,
-            "above_sma200": true
+            "ema20_bullish": false,
+            "sma50_bullish": false,
+            "sma200_bullish": false
           }
         },
         "volumen": {
@@ -102,24 +106,28 @@
     },
     {
       "date": "2026-03-09",
-      "overall_score": 1.5,
+      "overall_score": 1.0,
       "max_score": 6.0,
-      "pct": 25.0,
+      "pct": 16.7,
       "regime": "RISK OFF",
       "pilares": {
         "amplitud": {
-          "score": 0.5,
+          "score": 0.0,
           "primary": 31.1,
           "sub": {
             "above_ema20": 31.1,
             "above_sma50": 39.3,
             "above_sma200": 52.4,
-            "sectors_positive": 0
+            "state_ema20": "BEAR",
+            "state_sma50": "BEAR",
+            "state_sma200": "NEUTRAL",
+            "sectors_positive": 0,
+            "avg_ma_state": 0.167
           },
           "checks": {
-            "above_ema20": false,
-            "above_sma50": false,
-            "above_sma200": true
+            "ema20_bullish": false,
+            "sma50_bullish": false,
+            "sma200_bullish": false
           }
         },
         "volumen": {
@@ -200,24 +208,28 @@
     },
     {
       "date": "2026-03-10",
-      "overall_score": 1.5,
+      "overall_score": 1.0,
       "max_score": 6.0,
-      "pct": 25.0,
+      "pct": 16.7,
       "regime": "RISK OFF",
       "pilares": {
         "amplitud": {
-          "score": 0.5,
+          "score": 0.0,
           "primary": 26.2,
           "sub": {
             "above_ema20": 26.2,
             "above_sma50": 37.3,
             "above_sma200": 50.6,
-            "sectors_positive": 0
+            "state_ema20": "BEAR",
+            "state_sma50": "BEAR",
+            "state_sma200": "NEUTRAL",
+            "sectors_positive": 0,
+            "avg_ma_state": 0.167
           },
           "checks": {
-            "above_ema20": false,
-            "above_sma50": false,
-            "above_sma200": true
+            "ema20_bullish": false,
+            "sma50_bullish": false,
+            "sma200_bullish": false
           }
         },
         "volumen": {
@@ -310,12 +322,16 @@
             "above_ema20": 24.8,
             "above_sma50": 35.6,
             "above_sma200": 49.0,
-            "sectors_positive": 0
+            "state_ema20": "BEAR",
+            "state_sma50": "BEAR",
+            "state_sma200": "NEUTRAL",
+            "sectors_positive": 0,
+            "avg_ma_state": 0.167
           },
           "checks": {
-            "above_ema20": false,
-            "above_sma50": false,
-            "above_sma200": false
+            "ema20_bullish": false,
+            "sma50_bullish": false,
+            "sma200_bullish": false
           }
         },
         "volumen": {
@@ -408,12 +424,16 @@
             "above_ema20": 20.3,
             "above_sma50": 29.1,
             "above_sma200": 45.7,
-            "sectors_positive": 0
+            "state_ema20": "BEAR",
+            "state_sma50": "BEAR",
+            "state_sma200": "NEUTRAL",
+            "sectors_positive": 0,
+            "avg_ma_state": 0.167
           },
           "checks": {
-            "above_ema20": false,
-            "above_sma50": false,
-            "above_sma200": false
+            "ema20_bullish": false,
+            "sma50_bullish": false,
+            "sma200_bullish": false
           }
         },
         "volumen": {
@@ -506,12 +526,16 @@
             "above_ema20": 20.2,
             "above_sma50": 28.2,
             "above_sma200": 44.5,
-            "sectors_positive": 0
+            "state_ema20": "BEAR",
+            "state_sma50": "BEAR",
+            "state_sma200": "NEUTRAL",
+            "sectors_positive": 0,
+            "avg_ma_state": 0.167
           },
           "checks": {
-            "above_ema20": false,
-            "above_sma50": false,
-            "above_sma200": false
+            "ema20_bullish": false,
+            "sma50_bullish": false,
+            "sma200_bullish": false
           }
         },
         "volumen": {
@@ -604,12 +628,16 @@
             "above_ema20": 26.5,
             "above_sma50": 31.5,
             "above_sma200": 46.8,
-            "sectors_positive": 0
+            "state_ema20": "BEAR",
+            "state_sma50": "BEAR",
+            "state_sma200": "NEUTRAL",
+            "sectors_positive": 0,
+            "avg_ma_state": 0.167
           },
           "checks": {
-            "above_ema20": false,
-            "above_sma50": false,
-            "above_sma200": false
+            "ema20_bullish": false,
+            "sma50_bullish": false,
+            "sma200_bullish": false
           }
         },
         "volumen": {
@@ -702,12 +730,16 @@
             "above_ema20": 20.4,
             "above_sma50": 26.5,
             "above_sma200": 44.3,
-            "sectors_positive": 0
+            "state_ema20": "BEAR",
+            "state_sma50": "BEAR",
+            "state_sma200": "NEUTRAL",
+            "sectors_positive": 0,
+            "avg_ma_state": 0.167
           },
           "checks": {
-            "above_ema20": false,
-            "above_sma50": false,
-            "above_sma200": false
+            "ema20_bullish": false,
+            "sma50_bullish": false,
+            "sma200_bullish": false
           }
         },
         "volumen": {
@@ -800,12 +832,16 @@
             "above_ema20": 21.1,
             "above_sma50": 25.5,
             "above_sma200": 43.4,
-            "sectors_positive": 0
+            "state_ema20": "BEAR",
+            "state_sma50": "BEAR",
+            "state_sma200": "NEUTRAL",
+            "sectors_positive": 0,
+            "avg_ma_state": 0.167
           },
           "checks": {
-            "above_ema20": false,
-            "above_sma50": false,
-            "above_sma200": false
+            "ema20_bullish": false,
+            "sma50_bullish": false,
+            "sma200_bullish": false
           }
         },
         "volumen": {
@@ -898,12 +934,16 @@
             "above_ema20": 12.4,
             "above_sma50": 18.4,
             "above_sma200": 40.7,
-            "sectors_positive": 0
+            "state_ema20": "BEAR",
+            "state_sma50": "BEAR",
+            "state_sma200": "NEUTRAL",
+            "sectors_positive": 0,
+            "avg_ma_state": 0.167
           },
           "checks": {
-            "above_ema20": false,
-            "above_sma50": false,
-            "above_sma200": false
+            "ema20_bullish": false,
+            "sma50_bullish": false,
+            "sma200_bullish": false
           }
         },
         "volumen": {
@@ -996,12 +1036,16 @@
             "above_ema20": 21.6,
             "above_sma50": 23.1,
             "above_sma200": 43.7,
-            "sectors_positive": 0
+            "state_ema20": "BEAR",
+            "state_sma50": "BEAR",
+            "state_sma200": "NEUTRAL",
+            "sectors_positive": 0,
+            "avg_ma_state": 0.167
           },
           "checks": {
-            "above_ema20": false,
-            "above_sma50": false,
-            "above_sma200": false
+            "ema20_bullish": false,
+            "sma50_bullish": false,
+            "sma200_bullish": false
           }
         },
         "volumen": {
@@ -1094,12 +1138,16 @@
             "above_ema20": 23.6,
             "above_sma50": 24.9,
             "above_sma200": 44.7,
-            "sectors_positive": 0
+            "state_ema20": "BEAR",
+            "state_sma50": "BEAR",
+            "state_sma200": "NEUTRAL",
+            "sectors_positive": 0,
+            "avg_ma_state": 0.167
           },
           "checks": {
-            "above_ema20": false,
-            "above_sma50": false,
-            "above_sma200": false
+            "ema20_bullish": false,
+            "sma50_bullish": false,
+            "sma200_bullish": false
           }
         },
         "volumen": {
@@ -1192,12 +1240,16 @@
             "above_ema20": 30.0,
             "above_sma50": 27.9,
             "above_sma200": 45.0,
-            "sectors_positive": 0
+            "state_ema20": "BEAR",
+            "state_sma50": "BEAR",
+            "state_sma200": "NEUTRAL",
+            "sectors_positive": 0,
+            "avg_ma_state": 0.167
           },
           "checks": {
-            "above_ema20": false,
-            "above_sma50": false,
-            "above_sma200": false
+            "ema20_bullish": false,
+            "sma50_bullish": false,
+            "sma200_bullish": false
           }
         },
         "volumen": {
@@ -1290,12 +1342,16 @@
             "above_ema20": 24.6,
             "above_sma50": 23.7,
             "above_sma200": 43.2,
-            "sectors_positive": 0
+            "state_ema20": "BEAR",
+            "state_sma50": "BEAR",
+            "state_sma200": "NEUTRAL",
+            "sectors_positive": 0,
+            "avg_ma_state": 0.167
           },
           "checks": {
-            "above_ema20": false,
-            "above_sma50": false,
-            "above_sma200": false
+            "ema20_bullish": false,
+            "sma50_bullish": false,
+            "sma200_bullish": false
           }
         },
         "volumen": {
@@ -1388,12 +1444,16 @@
             "above_ema20": 16.0,
             "above_sma50": 20.2,
             "above_sma200": 39.5,
-            "sectors_positive": 0
+            "state_ema20": "BEAR",
+            "state_sma50": "BEAR",
+            "state_sma200": "BEAR",
+            "sectors_positive": 0,
+            "avg_ma_state": 0.0
           },
           "checks": {
-            "above_ema20": false,
-            "above_sma50": false,
-            "above_sma200": false
+            "ema20_bullish": false,
+            "sma50_bullish": false,
+            "sma200_bullish": false
           }
         },
         "volumen": {
@@ -1486,12 +1546,16 @@
             "above_ema20": 18.6,
             "above_sma50": 20.3,
             "above_sma200": 39.2,
-            "sectors_positive": 0
+            "state_ema20": "BEAR",
+            "state_sma50": "BEAR",
+            "state_sma200": "BEAR",
+            "sectors_positive": 0,
+            "avg_ma_state": 0.0
           },
           "checks": {
-            "above_ema20": false,
-            "above_sma50": false,
-            "above_sma200": false
+            "ema20_bullish": false,
+            "sma50_bullish": false,
+            "sma200_bullish": false
           }
         },
         "volumen": {
@@ -1584,12 +1648,16 @@
             "above_ema20": 37.8,
             "above_sma50": 25.2,
             "above_sma200": 43.8,
-            "sectors_positive": 0
+            "state_ema20": "BEAR",
+            "state_sma50": "BEAR",
+            "state_sma200": "NEUTRAL",
+            "sectors_positive": 0,
+            "avg_ma_state": 0.167
           },
           "checks": {
-            "above_ema20": false,
-            "above_sma50": false,
-            "above_sma200": false
+            "ema20_bullish": false,
+            "sma50_bullish": false,
+            "sma200_bullish": false
           }
         },
         "volumen": {
@@ -1670,24 +1738,28 @@
     },
     {
       "date": "2026-04-01",
-      "overall_score": 1.5,
+      "overall_score": 2.0,
       "max_score": 6.0,
-      "pct": 25.0,
+      "pct": 33.3,
       "regime": "RISK OFF",
       "pilares": {
         "amplitud": {
-          "score": 0.0,
+          "score": 0.5,
           "primary": 43.9,
           "sub": {
             "above_ema20": 43.9,
             "above_sma50": 27.2,
             "above_sma200": 45.0,
-            "sectors_positive": 0
+            "state_ema20": "NEUTRAL",
+            "state_sma50": "BEAR",
+            "state_sma200": "NEUTRAL",
+            "sectors_positive": 0,
+            "avg_ma_state": 0.333
           },
           "checks": {
-            "above_ema20": false,
-            "above_sma50": false,
-            "above_sma200": false
+            "ema20_bullish": false,
+            "sma50_bullish": false,
+            "sma200_bullish": false
           }
         },
         "volumen": {
@@ -1768,24 +1840,28 @@
     },
     {
       "date": "2026-04-02",
-      "overall_score": 1.5,
+      "overall_score": 2.0,
       "max_score": 6.0,
-      "pct": 25.0,
+      "pct": 33.3,
       "regime": "RISK OFF",
       "pilares": {
         "amplitud": {
-          "score": 0.0,
+          "score": 0.5,
           "primary": 48.2,
           "sub": {
             "above_ema20": 48.2,
             "above_sma50": 29.8,
             "above_sma200": 45.5,
-            "sectors_positive": 0
+            "state_ema20": "NEUTRAL",
+            "state_sma50": "BEAR",
+            "state_sma200": "NEUTRAL",
+            "sectors_positive": 0,
+            "avg_ma_state": 0.333
           },
           "checks": {
-            "above_ema20": false,
-            "above_sma50": false,
-            "above_sma200": false
+            "ema20_bullish": false,
+            "sma50_bullish": false,
+            "sma200_bullish": false
           }
         },
         "volumen": {
@@ -1878,12 +1954,16 @@
             "above_ema20": 51.8,
             "above_sma50": 32.5,
             "above_sma200": 45.7,
-            "sectors_positive": 0
+            "state_ema20": "NEUTRAL",
+            "state_sma50": "BEAR",
+            "state_sma200": "NEUTRAL",
+            "sectors_positive": 0,
+            "avg_ma_state": 0.333
           },
           "checks": {
-            "above_ema20": true,
-            "above_sma50": false,
-            "above_sma200": false
+            "ema20_bullish": false,
+            "sma50_bullish": false,
+            "sma200_bullish": false
           }
         },
         "volumen": {
@@ -1964,24 +2044,28 @@
     },
     {
       "date": "2026-04-07",
-      "overall_score": 1.5,
+      "overall_score": 2.0,
       "max_score": 6.0,
-      "pct": 25.0,
+      "pct": 33.3,
       "regime": "RISK OFF",
       "pilares": {
         "amplitud": {
-          "score": 0.0,
+          "score": 0.5,
           "primary": 49.5,
           "sub": {
             "above_ema20": 49.5,
             "above_sma50": 32.4,
             "above_sma200": 45.6,
-            "sectors_positive": 0
+            "state_ema20": "NEUTRAL",
+            "state_sma50": "BEAR",
+            "state_sma200": "NEUTRAL",
+            "sectors_positive": 0,
+            "avg_ma_state": 0.333
           },
           "checks": {
-            "above_ema20": false,
-            "above_sma50": false,
-            "above_sma200": false
+            "ema20_bullish": false,
+            "sma50_bullish": false,
+            "sma200_bullish": false
           }
         },
         "volumen": {
@@ -2074,12 +2158,16 @@
             "above_ema20": 74.7,
             "above_sma50": 45.1,
             "above_sma200": 52.4,
-            "sectors_positive": 0
+            "state_ema20": "BULL",
+            "state_sma50": "NEUTRAL",
+            "state_sma200": "NEUTRAL",
+            "sectors_positive": 0,
+            "avg_ma_state": 0.667
           },
           "checks": {
-            "above_ema20": true,
-            "above_sma50": false,
-            "above_sma200": true
+            "ema20_bullish": true,
+            "sma50_bullish": false,
+            "sma200_bullish": false
           }
         },
         "volumen": {
@@ -2172,12 +2260,16 @@
             "above_ema20": 69.3,
             "above_sma50": 46.3,
             "above_sma200": 52.9,
-            "sectors_positive": 0
+            "state_ema20": "NEUTRAL",
+            "state_sma50": "NEUTRAL",
+            "state_sma200": "NEUTRAL",
+            "sectors_positive": 0,
+            "avg_ma_state": 0.5
           },
           "checks": {
-            "above_ema20": true,
-            "above_sma50": false,
-            "above_sma200": true
+            "ema20_bullish": false,
+            "sma50_bullish": false,
+            "sma200_bullish": false
           }
         },
         "volumen": {
@@ -2270,12 +2362,16 @@
             "above_ema20": 62.9,
             "above_sma50": 44.0,
             "above_sma200": 51.1,
-            "sectors_positive": 0
+            "state_ema20": "NEUTRAL",
+            "state_sma50": "NEUTRAL",
+            "state_sma200": "NEUTRAL",
+            "sectors_positive": 0,
+            "avg_ma_state": 0.5
           },
           "checks": {
-            "above_ema20": true,
-            "above_sma50": false,
-            "above_sma200": true
+            "ema20_bullish": false,
+            "sma50_bullish": false,
+            "sma200_bullish": false
           }
         },
         "volumen": {
@@ -2356,24 +2452,28 @@
     },
     {
       "date": "2026-04-13",
-      "overall_score": 4.0,
+      "overall_score": 3.5,
       "max_score": 6.0,
-      "pct": 66.7,
+      "pct": 58.3,
       "regime": "NEUTRAL",
       "pilares": {
         "amplitud": {
-          "score": 1.0,
+          "score": 0.5,
           "primary": 71.7,
           "sub": {
             "above_ema20": 71.7,
             "above_sma50": 51.1,
             "above_sma200": 53.8,
-            "sectors_positive": 0
+            "state_ema20": "BULL",
+            "state_sma50": "NEUTRAL",
+            "state_sma200": "NEUTRAL",
+            "sectors_positive": 0,
+            "avg_ma_state": 0.667
           },
           "checks": {
-            "above_ema20": true,
-            "above_sma50": true,
-            "above_sma200": true
+            "ema20_bullish": true,
+            "sma50_bullish": false,
+            "sma200_bullish": false
           }
         },
         "volumen": {
@@ -2466,12 +2566,16 @@
             "above_ema20": 71.9,
             "above_sma50": 53.9,
             "above_sma200": 55.1,
-            "sectors_positive": 0
+            "state_ema20": "BULL",
+            "state_sma50": "NEUTRAL",
+            "state_sma200": "BULL",
+            "sectors_positive": 0,
+            "avg_ma_state": 0.833
           },
           "checks": {
-            "above_ema20": true,
-            "above_sma50": true,
-            "above_sma200": true
+            "ema20_bullish": true,
+            "sma50_bullish": false,
+            "sma200_bullish": true
           }
         },
         "volumen": {
@@ -2552,24 +2656,28 @@
     },
     {
       "date": "2026-04-15",
-      "overall_score": 4.5,
+      "overall_score": 4.0,
       "max_score": 6.0,
-      "pct": 75.0,
+      "pct": 66.7,
       "regime": "NEUTRAL",
       "pilares": {
         "amplitud": {
-          "score": 1.0,
+          "score": 0.5,
           "primary": 69.2,
           "sub": {
             "above_ema20": 69.2,
             "above_sma50": 53.9,
             "above_sma200": 53.4,
-            "sectors_positive": 0
+            "state_ema20": "NEUTRAL",
+            "state_sma50": "NEUTRAL",
+            "state_sma200": "NEUTRAL",
+            "sectors_positive": 0,
+            "avg_ma_state": 0.5
           },
           "checks": {
-            "above_ema20": true,
-            "above_sma50": true,
-            "above_sma200": true
+            "ema20_bullish": false,
+            "sma50_bullish": false,
+            "sma200_bullish": false
           }
         },
         "volumen": {
@@ -2650,24 +2758,28 @@
     },
     {
       "date": "2026-04-16",
-      "overall_score": 4.5,
+      "overall_score": 4.0,
       "max_score": 6.0,
-      "pct": 75.0,
+      "pct": 66.7,
       "regime": "NEUTRAL",
       "pilares": {
         "amplitud": {
-          "score": 1.0,
+          "score": 0.5,
           "primary": 71.7,
           "sub": {
             "above_ema20": 71.7,
             "above_sma50": 55.5,
             "above_sma200": 53.0,
-            "sectors_positive": 0
+            "state_ema20": "BULL",
+            "state_sma50": "NEUTRAL",
+            "state_sma200": "NEUTRAL",
+            "sectors_positive": 0,
+            "avg_ma_state": 0.667
           },
           "checks": {
-            "above_ema20": true,
-            "above_sma50": true,
-            "above_sma200": true
+            "ema20_bullish": true,
+            "sma50_bullish": false,
+            "sma200_bullish": false
           }
         },
         "volumen": {
@@ -2760,12 +2872,16 @@
             "above_ema20": 79.4,
             "above_sma50": 66.0,
             "above_sma200": 57.8,
-            "sectors_positive": 0
+            "state_ema20": "BULL",
+            "state_sma50": "BULL",
+            "state_sma200": "BULL",
+            "sectors_positive": 0,
+            "avg_ma_state": 1.0
           },
           "checks": {
-            "above_ema20": true,
-            "above_sma50": true,
-            "above_sma200": true
+            "ema20_bullish": true,
+            "sma50_bullish": true,
+            "sma200_bullish": true
           }
         },
         "volumen": {
@@ -2858,12 +2974,16 @@
             "above_ema20": 79.2,
             "above_sma50": 66.5,
             "above_sma200": 58.0,
-            "sectors_positive": 0
+            "state_ema20": "BULL",
+            "state_sma50": "BULL",
+            "state_sma200": "BULL",
+            "sectors_positive": 0,
+            "avg_ma_state": 1.0
           },
           "checks": {
-            "above_ema20": true,
-            "above_sma50": true,
-            "above_sma200": true
+            "ema20_bullish": true,
+            "sma50_bullish": true,
+            "sma200_bullish": true
           }
         },
         "volumen": {
@@ -2956,12 +3076,16 @@
             "above_ema20": 72.1,
             "above_sma50": 63.0,
             "above_sma200": 55.9,
-            "sectors_positive": 0
+            "state_ema20": "BULL",
+            "state_sma50": "BULL",
+            "state_sma200": "BULL",
+            "sectors_positive": 0,
+            "avg_ma_state": 1.0
           },
           "checks": {
-            "above_ema20": true,
-            "above_sma50": true,
-            "above_sma200": true
+            "ema20_bullish": true,
+            "sma50_bullish": true,
+            "sma200_bullish": true
           }
         },
         "volumen": {
