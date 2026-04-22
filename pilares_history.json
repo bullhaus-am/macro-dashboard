@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T15:27:02",
+  "generated_at": "2026-04-22T15:44:11",
   "count": 31,
   "records": [
     {
@@ -64,13 +64,13 @@
           "sub": {
             "hy_vs_treasuries": "BEAR",
             "stocks_vs_gold": "BEAR",
-            "stocks_vs_commod": "BEAR",
+            "stocks_vs_long_tsy": "BEAR",
             "risk_on_count": 0
           },
           "checks": {
             "hy_vs_treasuries": false,
             "stocks_vs_gold": false,
-            "stocks_vs_commodities": false
+            "stocks_vs_long_treasuries": false
           }
         },
         "volatilidad": {
@@ -166,13 +166,13 @@
           "sub": {
             "hy_vs_treasuries": "BEAR",
             "stocks_vs_gold": "BEAR",
-            "stocks_vs_commod": "BEAR",
+            "stocks_vs_long_tsy": "BEAR",
             "risk_on_count": 0
           },
           "checks": {
             "hy_vs_treasuries": false,
             "stocks_vs_gold": false,
-            "stocks_vs_commodities": false
+            "stocks_vs_long_treasuries": false
           }
         },
         "volatilidad": {
@@ -268,13 +268,13 @@
           "sub": {
             "hy_vs_treasuries": "BEAR",
             "stocks_vs_gold": "BEAR",
-            "stocks_vs_commod": "BEAR",
+            "stocks_vs_long_tsy": "BEAR",
             "risk_on_count": 0
           },
           "checks": {
             "hy_vs_treasuries": false,
             "stocks_vs_gold": false,
-            "stocks_vs_commodities": false
+            "stocks_vs_long_treasuries": false
           }
         },
         "volatilidad": {
@@ -310,9 +310,9 @@
     },
     {
       "date": "2026-03-11",
-      "overall_score": 1.0,
+      "overall_score": 1.5,
       "max_score": 6.0,
-      "pct": 16.7,
+      "pct": 25.0,
       "regime": "RISK OFF",
       "pilares": {
         "amplitud": {
@@ -365,18 +365,18 @@
           }
         },
         "flujo": {
-          "score": 0.0,
-          "primary": 0,
+          "score": 0.5,
+          "primary": 1,
           "sub": {
             "hy_vs_treasuries": "BEAR",
             "stocks_vs_gold": "BEAR",
-            "stocks_vs_commod": "BEAR",
-            "risk_on_count": 0
+            "stocks_vs_long_tsy": "BULL",
+            "risk_on_count": 1
           },
           "checks": {
             "hy_vs_treasuries": false,
             "stocks_vs_gold": false,
-            "stocks_vs_commodities": false
+            "stocks_vs_long_treasuries": true
           }
         },
         "volatilidad": {
@@ -472,13 +472,13 @@
           "sub": {
             "hy_vs_treasuries": "BEAR",
             "stocks_vs_gold": "BEAR",
-            "stocks_vs_commod": "BEAR",
+            "stocks_vs_long_tsy": "BEAR",
             "risk_on_count": 0
           },
           "checks": {
             "hy_vs_treasuries": false,
             "stocks_vs_gold": false,
-            "stocks_vs_commodities": false
+            "stocks_vs_long_treasuries": false
           }
         },
         "volatilidad": {
@@ -574,13 +574,13 @@
           "sub": {
             "hy_vs_treasuries": "BEAR",
             "stocks_vs_gold": "BEAR",
-            "stocks_vs_commod": "BEAR",
+            "stocks_vs_long_tsy": "BEAR",
             "risk_on_count": 0
           },
           "checks": {
             "hy_vs_treasuries": false,
             "stocks_vs_gold": false,
-            "stocks_vs_commodities": false
+            "stocks_vs_long_treasuries": false
           }
         },
         "volatilidad": {
@@ -676,13 +676,13 @@
           "sub": {
             "hy_vs_treasuries": "BEAR",
             "stocks_vs_gold": "BEAR",
-            "stocks_vs_commod": "BEAR",
+            "stocks_vs_long_tsy": "BEAR",
             "risk_on_count": 0
           },
           "checks": {
             "hy_vs_treasuries": false,
             "stocks_vs_gold": false,
-            "stocks_vs_commodities": false
+            "stocks_vs_long_treasuries": false
           }
         },
         "volatilidad": {
@@ -778,13 +778,13 @@
           "sub": {
             "hy_vs_treasuries": "BEAR",
             "stocks_vs_gold": "BEAR",
-            "stocks_vs_commod": "BEAR",
+            "stocks_vs_long_tsy": "BEAR",
             "risk_on_count": 0
           },
           "checks": {
             "hy_vs_treasuries": false,
             "stocks_vs_gold": false,
-            "stocks_vs_commodities": false
+            "stocks_vs_long_treasuries": false
           }
         },
         "volatilidad": {
@@ -880,13 +880,13 @@
           "sub": {
             "hy_vs_treasuries": "BEAR",
             "stocks_vs_gold": "BEAR",
-            "stocks_vs_commod": "BEAR",
+            "stocks_vs_long_tsy": "BEAR",
             "risk_on_count": 0
           },
           "checks": {
             "hy_vs_treasuries": false,
             "stocks_vs_gold": false,
-            "stocks_vs_commodities": false
+            "stocks_vs_long_treasuries": false
           }
         },
         "volatilidad": {
@@ -982,13 +982,13 @@
           "sub": {
             "hy_vs_treasuries": "BEAR",
             "stocks_vs_gold": "BEAR",
-            "stocks_vs_commod": "BEAR",
+            "stocks_vs_long_tsy": "BEAR",
             "risk_on_count": 0
           },
           "checks": {
             "hy_vs_treasuries": false,
             "stocks_vs_gold": false,
-            "stocks_vs_commodities": false
+            "stocks_vs_long_treasuries": false
           }
         },
         "volatilidad": {
@@ -1084,13 +1084,13 @@
           "sub": {
             "hy_vs_treasuries": "BEAR",
             "stocks_vs_gold": "BEAR",
-            "stocks_vs_commod": "BEAR",
+            "stocks_vs_long_tsy": "BEAR",
             "risk_on_count": 0
           },
           "checks": {
             "hy_vs_treasuries": false,
             "stocks_vs_gold": false,
-            "stocks_vs_commodities": false
+            "stocks_vs_long_treasuries": false
           }
         },
         "volatilidad": {
@@ -1186,13 +1186,13 @@
           "sub": {
             "hy_vs_treasuries": "BEAR",
             "stocks_vs_gold": "BEAR",
-            "stocks_vs_commod": "BEAR",
+            "stocks_vs_long_tsy": "BEAR",
             "risk_on_count": 0
           },
           "checks": {
             "hy_vs_treasuries": false,
             "stocks_vs_gold": false,
-            "stocks_vs_commodities": false
+            "stocks_vs_long_treasuries": false
           }
         },
         "volatilidad": {
@@ -1288,13 +1288,13 @@
           "sub": {
             "hy_vs_treasuries": "BEAR",
             "stocks_vs_gold": "BEAR",
-            "stocks_vs_commod": "BEAR",
+            "stocks_vs_long_tsy": "BEAR",
             "risk_on_count": 0
           },
           "checks": {
             "hy_vs_treasuries": false,
             "stocks_vs_gold": false,
-            "stocks_vs_commodities": false
+            "stocks_vs_long_treasuries": false
           }
         },
         "volatilidad": {
@@ -1390,13 +1390,13 @@
           "sub": {
             "hy_vs_treasuries": "BEAR",
             "stocks_vs_gold": "BEAR",
-            "stocks_vs_commod": "BEAR",
+            "stocks_vs_long_tsy": "BEAR",
             "risk_on_count": 0
           },
           "checks": {
             "hy_vs_treasuries": false,
             "stocks_vs_gold": false,
-            "stocks_vs_commodities": false
+            "stocks_vs_long_treasuries": false
           }
         },
         "volatilidad": {
@@ -1492,13 +1492,13 @@
           "sub": {
             "hy_vs_treasuries": "BEAR",
             "stocks_vs_gold": "BEAR",
-            "stocks_vs_commod": "BEAR",
+            "stocks_vs_long_tsy": "BEAR",
             "risk_on_count": 0
           },
           "checks": {
             "hy_vs_treasuries": false,
             "stocks_vs_gold": false,
-            "stocks_vs_commodities": false
+            "stocks_vs_long_treasuries": false
           }
         },
         "volatilidad": {
@@ -1594,13 +1594,13 @@
           "sub": {
             "hy_vs_treasuries": "BEAR",
             "stocks_vs_gold": "BEAR",
-            "stocks_vs_commod": "BEAR",
+            "stocks_vs_long_tsy": "BEAR",
             "risk_on_count": 0
           },
           "checks": {
             "hy_vs_treasuries": false,
             "stocks_vs_gold": false,
-            "stocks_vs_commodities": false
+            "stocks_vs_long_treasuries": false
           }
         },
         "volatilidad": {
@@ -1696,13 +1696,13 @@
           "sub": {
             "hy_vs_treasuries": "BEAR",
             "stocks_vs_gold": "BEAR",
-            "stocks_vs_commod": "BEAR",
+            "stocks_vs_long_tsy": "BEAR",
             "risk_on_count": 0
           },
           "checks": {
             "hy_vs_treasuries": false,
             "stocks_vs_gold": false,
-            "stocks_vs_commodities": false
+            "stocks_vs_long_treasuries": false
           }
         },
         "volatilidad": {
@@ -1798,13 +1798,13 @@
           "sub": {
             "hy_vs_treasuries": "BULL",
             "stocks_vs_gold": "BEAR",
-            "stocks_vs_commod": "BEAR",
+            "stocks_vs_long_tsy": "BEAR",
             "risk_on_count": 1
           },
           "checks": {
             "hy_vs_treasuries": true,
             "stocks_vs_gold": false,
-            "stocks_vs_commodities": false
+            "stocks_vs_long_treasuries": false
           }
         },
         "volatilidad": {
@@ -1900,13 +1900,13 @@
           "sub": {
             "hy_vs_treasuries": "BULL",
             "stocks_vs_gold": "BEAR",
-            "stocks_vs_commod": "BEAR",
+            "stocks_vs_long_tsy": "BEAR",
             "risk_on_count": 1
           },
           "checks": {
             "hy_vs_treasuries": true,
             "stocks_vs_gold": false,
-            "stocks_vs_commodities": false
+            "stocks_vs_long_treasuries": false
           }
         },
         "volatilidad": {
@@ -2002,13 +2002,13 @@
           "sub": {
             "hy_vs_treasuries": "BULL",
             "stocks_vs_gold": "BEAR",
-            "stocks_vs_commod": "BEAR",
+            "stocks_vs_long_tsy": "BEAR",
             "risk_on_count": 1
           },
           "checks": {
             "hy_vs_treasuries": true,
             "stocks_vs_gold": false,
-            "stocks_vs_commodities": false
+            "stocks_vs_long_treasuries": false
           }
         },
         "volatilidad": {
@@ -2104,13 +2104,13 @@
           "sub": {
             "hy_vs_treasuries": "BULL",
             "stocks_vs_gold": "BEAR",
-            "stocks_vs_commod": "BEAR",
+            "stocks_vs_long_tsy": "BEAR",
             "risk_on_count": 1
           },
           "checks": {
             "hy_vs_treasuries": true,
             "stocks_vs_gold": false,
-            "stocks_vs_commodities": false
+            "stocks_vs_long_treasuries": false
           }
         },
         "volatilidad": {
@@ -2202,17 +2202,17 @@
         },
         "flujo": {
           "score": 0.5,
-          "primary": 1,
+          "primary": 2,
           "sub": {
             "hy_vs_treasuries": "BULL",
             "stocks_vs_gold": "BEAR",
-            "stocks_vs_commod": "BEAR",
-            "risk_on_count": 1
+            "stocks_vs_long_tsy": "BULL",
+            "risk_on_count": 2
           },
           "checks": {
             "hy_vs_treasuries": true,
             "stocks_vs_gold": false,
-            "stocks_vs_commodities": false
+            "stocks_vs_long_treasuries": true
           }
         },
         "volatilidad": {
@@ -2304,17 +2304,17 @@
         },
         "flujo": {
           "score": 0.5,
-          "primary": 1,
+          "primary": 2,
           "sub": {
             "hy_vs_treasuries": "BULL",
             "stocks_vs_gold": "BEAR",
-            "stocks_vs_commod": "BEAR",
-            "risk_on_count": 1
+            "stocks_vs_long_tsy": "BULL",
+            "risk_on_count": 2
           },
           "checks": {
             "hy_vs_treasuries": true,
             "stocks_vs_gold": false,
-            "stocks_vs_commodities": false
+            "stocks_vs_long_treasuries": true
           }
         },
         "volatilidad": {
@@ -2406,17 +2406,17 @@
         },
         "flujo": {
           "score": 0.5,
-          "primary": 1,
+          "primary": 2,
           "sub": {
             "hy_vs_treasuries": "BULL",
             "stocks_vs_gold": "BEAR",
-            "stocks_vs_commod": "BEAR",
-            "risk_on_count": 1
+            "stocks_vs_long_tsy": "BULL",
+            "risk_on_count": 2
           },
           "checks": {
             "hy_vs_treasuries": true,
             "stocks_vs_gold": false,
-            "stocks_vs_commodities": false
+            "stocks_vs_long_treasuries": true
           }
         },
         "volatilidad": {
@@ -2508,17 +2508,17 @@
         },
         "flujo": {
           "score": 0.5,
-          "primary": 1,
+          "primary": 2,
           "sub": {
             "hy_vs_treasuries": "BULL",
             "stocks_vs_gold": "BEAR",
-            "stocks_vs_commod": "BEAR",
-            "risk_on_count": 1
+            "stocks_vs_long_tsy": "BULL",
+            "risk_on_count": 2
           },
           "checks": {
             "hy_vs_treasuries": true,
             "stocks_vs_gold": false,
-            "stocks_vs_commodities": false
+            "stocks_vs_long_treasuries": true
           }
         },
         "volatilidad": {
@@ -2610,17 +2610,17 @@
         },
         "flujo": {
           "score": 0.5,
-          "primary": 1,
+          "primary": 2,
           "sub": {
             "hy_vs_treasuries": "BULL",
             "stocks_vs_gold": "BEAR",
-            "stocks_vs_commod": "BEAR",
-            "risk_on_count": 1
+            "stocks_vs_long_tsy": "BULL",
+            "risk_on_count": 2
           },
           "checks": {
             "hy_vs_treasuries": true,
             "stocks_vs_gold": false,
-            "stocks_vs_commodities": false
+            "stocks_vs_long_treasuries": true
           }
         },
         "volatilidad": {
@@ -2656,9 +2656,9 @@
     },
     {
       "date": "2026-04-15",
-      "overall_score": 4.0,
+      "overall_score": 4.5,
       "max_score": 6.0,
-      "pct": 66.7,
+      "pct": 75.0,
       "regime": "NEUTRAL",
       "pilares": {
         "amplitud": {
@@ -2711,18 +2711,18 @@
           }
         },
         "flujo": {
-          "score": 0.5,
-          "primary": 2,
+          "score": 1.0,
+          "primary": 3,
           "sub": {
             "hy_vs_treasuries": "BULL",
             "stocks_vs_gold": "BULL",
-            "stocks_vs_commod": "BEAR",
-            "risk_on_count": 2
+            "stocks_vs_long_tsy": "BULL",
+            "risk_on_count": 3
           },
           "checks": {
             "hy_vs_treasuries": true,
             "stocks_vs_gold": true,
-            "stocks_vs_commodities": false
+            "stocks_vs_long_treasuries": true
           }
         },
         "volatilidad": {
@@ -2758,9 +2758,9 @@
     },
     {
       "date": "2026-04-16",
-      "overall_score": 4.0,
+      "overall_score": 4.5,
       "max_score": 6.0,
-      "pct": 66.7,
+      "pct": 75.0,
       "regime": "NEUTRAL",
       "pilares": {
         "amplitud": {
@@ -2813,18 +2813,18 @@
           }
         },
         "flujo": {
-          "score": 0.5,
-          "primary": 2,
+          "score": 1.0,
+          "primary": 3,
           "sub": {
             "hy_vs_treasuries": "BULL",
             "stocks_vs_gold": "BULL",
-            "stocks_vs_commod": "BEAR",
-            "risk_on_count": 2
+            "stocks_vs_long_tsy": "BULL",
+            "risk_on_count": 3
           },
           "checks": {
             "hy_vs_treasuries": true,
             "stocks_vs_gold": true,
-            "stocks_vs_commodities": false
+            "stocks_vs_long_treasuries": true
           }
         },
         "volatilidad": {
@@ -2860,9 +2860,9 @@
     },
     {
       "date": "2026-04-17",
-      "overall_score": 5.0,
+      "overall_score": 5.5,
       "max_score": 6.0,
-      "pct": 83.3,
+      "pct": 91.7,
       "regime": "RISK ON",
       "pilares": {
         "amplitud": {
@@ -2915,18 +2915,18 @@
           }
         },
         "flujo": {
-          "score": 0.5,
-          "primary": 2,
+          "score": 1.0,
+          "primary": 3,
           "sub": {
             "hy_vs_treasuries": "BULL",
             "stocks_vs_gold": "BULL",
-            "stocks_vs_commod": "BEAR",
-            "risk_on_count": 2
+            "stocks_vs_long_tsy": "BULL",
+            "risk_on_count": 3
           },
           "checks": {
             "hy_vs_treasuries": true,
             "stocks_vs_gold": true,
-            "stocks_vs_commodities": false
+            "stocks_vs_long_treasuries": true
           }
         },
         "volatilidad": {
@@ -2962,9 +2962,9 @@
     },
     {
       "date": "2026-04-20",
-      "overall_score": 5.5,
+      "overall_score": 6.0,
       "max_score": 6.0,
-      "pct": 91.7,
+      "pct": 100.0,
       "regime": "RISK ON",
       "pilares": {
         "amplitud": {
@@ -3017,18 +3017,18 @@
           }
         },
         "flujo": {
-          "score": 0.5,
-          "primary": 2,
+          "score": 1.0,
+          "primary": 3,
           "sub": {
             "hy_vs_treasuries": "BULL",
             "stocks_vs_gold": "BULL",
-            "stocks_vs_commod": "BEAR",
-            "risk_on_count": 2
+            "stocks_vs_long_tsy": "BULL",
+            "risk_on_count": 3
           },
           "checks": {
             "hy_vs_treasuries": true,
             "stocks_vs_gold": true,
-            "stocks_vs_commodities": false
+            "stocks_vs_long_treasuries": true
           }
         },
         "volatilidad": {
@@ -3064,9 +3064,9 @@
     },
     {
       "date": "2026-04-21",
-      "overall_score": 5.5,
+      "overall_score": 6.0,
       "max_score": 6.0,
-      "pct": 91.7,
+      "pct": 100.0,
       "regime": "RISK ON",
       "pilares": {
         "amplitud": {
@@ -3119,26 +3119,26 @@
           }
         },
         "flujo": {
-          "score": 0.5,
-          "primary": 2,
+          "score": 1.0,
+          "primary": 3,
           "sub": {
             "hy_vs_treasuries": "BULL",
             "stocks_vs_gold": "BULL",
-            "stocks_vs_commod": "BEAR",
-            "risk_on_count": 2
+            "stocks_vs_long_tsy": "BULL",
+            "risk_on_count": 3
           },
           "checks": {
             "hy_vs_treasuries": true,
             "stocks_vs_gold": true,
-            "stocks_vs_commodities": false
+            "stocks_vs_long_treasuries": true
           }
         },
         "volatilidad": {
           "score": 1.0,
-          "primary": 18.87,
+          "primary": 19.5,
           "sub": {
-            "vix_level": 18.87,
-            "vix_delta_20d": -8.08,
+            "vix_level": 19.5,
+            "vix_delta_20d": -7.45,
             "med_atr_ratio": 0.978,
             "m2_filter": "PASS"
           },
