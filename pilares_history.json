@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T08:53:39",
+  "generated_at": "2026-04-23T09:33:22",
   "count": 32,
   "records": [
     {
@@ -514,9 +514,9 @@
     },
     {
       "date": "2026-03-13",
-      "overall_score": 1.5,
+      "overall_score": 1.0,
       "max_score": 6.0,
-      "pct": 25.0,
+      "pct": 16.7,
       "regime": "RISK OFF",
       "pilares": {
         "amplitud": {
@@ -584,17 +584,17 @@
           }
         },
         "volatilidad": {
-          "score": 0.5,
+          "score": 0.0,
           "primary": 27.19,
           "sub": {
             "vix_level": 27.19,
             "vix_delta_20d": 6.59,
             "med_atr_ratio": 1.086,
-            "m2_filter": "PASS"
+            "m2_filter": "FAIL"
           },
           "checks": {
             "vix_low": false,
-            "m2_pass": true,
+            "m2_pass": false,
             "vix_trending_down": false
           }
         },
@@ -616,9 +616,9 @@
     },
     {
       "date": "2026-03-17",
-      "overall_score": 1.5,
+      "overall_score": 1.0,
       "max_score": 6.0,
-      "pct": 25.0,
+      "pct": 16.7,
       "regime": "RISK OFF",
       "pilares": {
         "amplitud": {
@@ -686,17 +686,17 @@
           }
         },
         "volatilidad": {
-          "score": 0.5,
+          "score": 0.0,
           "primary": 22.37,
           "sub": {
             "vix_level": 22.37,
             "vix_delta_20d": 2.08,
             "med_atr_ratio": 1.007,
-            "m2_filter": "PASS"
+            "m2_filter": "FAIL"
           },
           "checks": {
             "vix_low": false,
-            "m2_pass": true,
+            "m2_pass": false,
             "vix_trending_down": false
           }
         },
@@ -1024,9 +1024,9 @@
     },
     {
       "date": "2026-03-23",
-      "overall_score": 1.0,
+      "overall_score": 0.5,
       "max_score": 6.0,
-      "pct": 16.7,
+      "pct": 8.3,
       "regime": "RISK OFF",
       "pilares": {
         "amplitud": {
@@ -1094,17 +1094,17 @@
           }
         },
         "volatilidad": {
-          "score": 0.5,
+          "score": 0.0,
           "primary": 26.15,
           "sub": {
             "vix_level": 26.15,
             "vix_delta_20d": 5.14,
             "med_atr_ratio": 1.02,
-            "m2_filter": "PASS"
+            "m2_filter": "FAIL"
           },
           "checks": {
             "vix_low": false,
-            "m2_pass": true,
+            "m2_pass": false,
             "vix_trending_down": false
           }
         },
@@ -1126,9 +1126,9 @@
     },
     {
       "date": "2026-03-24",
-      "overall_score": 1.0,
+      "overall_score": 0.5,
       "max_score": 6.0,
-      "pct": 16.7,
+      "pct": 8.3,
       "regime": "RISK OFF",
       "pilares": {
         "amplitud": {
@@ -1196,17 +1196,17 @@
           }
         },
         "volatilidad": {
-          "score": 0.5,
+          "score": 0.0,
           "primary": 26.95,
           "sub": {
             "vix_level": 26.95,
             "vix_delta_20d": 7.4,
             "med_atr_ratio": 1.025,
-            "m2_filter": "PASS"
+            "m2_filter": "FAIL"
           },
           "checks": {
             "vix_low": false,
-            "m2_pass": true,
+            "m2_pass": false,
             "vix_trending_down": false
           }
         },
@@ -1228,9 +1228,9 @@
     },
     {
       "date": "2026-03-25",
-      "overall_score": 1.0,
+      "overall_score": 0.5,
       "max_score": 6.0,
-      "pct": 16.7,
+      "pct": 8.3,
       "regime": "RISK OFF",
       "pilares": {
         "amplitud": {
@@ -1298,17 +1298,17 @@
           }
         },
         "volatilidad": {
-          "score": 0.5,
+          "score": 0.0,
           "primary": 25.33,
           "sub": {
             "vix_level": 25.33,
             "vix_delta_20d": 7.4,
             "med_atr_ratio": 1.021,
-            "m2_filter": "PASS"
+            "m2_filter": "FAIL"
           },
           "checks": {
             "vix_low": false,
-            "m2_pass": true,
+            "m2_pass": false,
             "vix_trending_down": false
           }
         },
@@ -1636,9 +1636,9 @@
     },
     {
       "date": "2026-03-31",
-      "overall_score": 1.0,
+      "overall_score": 0.5,
       "max_score": 6.0,
-      "pct": 16.7,
+      "pct": 8.3,
       "regime": "RISK OFF",
       "pilares": {
         "amplitud": {
@@ -1706,17 +1706,17 @@
           }
         },
         "volatilidad": {
-          "score": 0.5,
+          "score": 0.0,
           "primary": 25.25,
           "sub": {
             "vix_level": 25.25,
             "vix_delta_20d": 1.68,
             "med_atr_ratio": 1.013,
-            "m2_filter": "PASS"
+            "m2_filter": "FAIL"
           },
           "checks": {
             "vix_low": false,
-            "m2_pass": true,
+            "m2_pass": false,
             "vix_trending_down": false
           }
         },
@@ -1840,9 +1840,9 @@
     },
     {
       "date": "2026-04-02",
-      "overall_score": 2.0,
+      "overall_score": 1.5,
       "max_score": 6.0,
-      "pct": 33.3,
+      "pct": 25.0,
       "regime": "RISK OFF",
       "pilares": {
         "amplitud": {
@@ -1910,17 +1910,17 @@
           }
         },
         "volatilidad": {
-          "score": 0.5,
+          "score": 0.0,
           "primary": 23.87,
           "sub": {
             "vix_level": 23.87,
             "vix_delta_20d": 0.12,
             "med_atr_ratio": 1.013,
-            "m2_filter": "PASS"
+            "m2_filter": "FAIL"
           },
           "checks": {
             "vix_low": false,
-            "m2_pass": true,
+            "m2_pass": false,
             "vix_trending_down": false
           }
         },
@@ -2222,11 +2222,11 @@
             "vix_level": 21.04,
             "vix_delta_20d": -3.19,
             "med_atr_ratio": 1.029,
-            "m2_filter": "PASS"
+            "m2_filter": "FAIL"
           },
           "checks": {
             "vix_low": false,
-            "m2_pass": true,
+            "m2_pass": false,
             "vix_trending_down": true
           }
         },
@@ -2248,10 +2248,10 @@
     },
     {
       "date": "2026-04-09",
-      "overall_score": 3.0,
+      "overall_score": 2.5,
       "max_score": 6.0,
-      "pct": 50.0,
-      "regime": "NEUTRAL",
+      "pct": 41.7,
+      "regime": "RISK OFF",
       "pilares": {
         "amplitud": {
           "score": 0.5,
@@ -2318,17 +2318,17 @@
           }
         },
         "volatilidad": {
-          "score": 1.0,
+          "score": 0.5,
           "primary": 19.49,
           "sub": {
             "vix_level": 19.49,
             "vix_delta_20d": -7.8,
             "med_atr_ratio": 1.028,
-            "m2_filter": "PASS"
+            "m2_filter": "FAIL"
           },
           "checks": {
             "vix_low": true,
-            "m2_pass": true,
+            "m2_pass": false,
             "vix_trending_down": true
           }
         },
