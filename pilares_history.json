@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T09:37:58",
+  "generated_at": "2026-04-23T10:07:55",
   "count": 32,
   "records": [
     {
@@ -11,7 +11,7 @@
       "pilares": {
         "amplitud": {
           "score": 0.0,
-          "primary": 31.9,
+          "primary": 39.4,
           "sub": {
             "above_ema20": 31.9,
             "above_sma50": 39.4,
@@ -113,7 +113,7 @@
       "pilares": {
         "amplitud": {
           "score": 0.0,
-          "primary": 31.1,
+          "primary": 39.3,
           "sub": {
             "above_ema20": 31.1,
             "above_sma50": 39.3,
@@ -215,7 +215,7 @@
       "pilares": {
         "amplitud": {
           "score": 0.0,
-          "primary": 26.2,
+          "primary": 37.3,
           "sub": {
             "above_ema20": 26.2,
             "above_sma50": 37.3,
@@ -317,7 +317,7 @@
       "pilares": {
         "amplitud": {
           "score": 0.0,
-          "primary": 24.8,
+          "primary": 35.6,
           "sub": {
             "above_ema20": 24.8,
             "above_sma50": 35.6,
@@ -419,7 +419,7 @@
       "pilares": {
         "amplitud": {
           "score": 0.0,
-          "primary": 20.3,
+          "primary": 29.1,
           "sub": {
             "above_ema20": 20.3,
             "above_sma50": 29.1,
@@ -521,7 +521,7 @@
       "pilares": {
         "amplitud": {
           "score": 0.0,
-          "primary": 20.2,
+          "primary": 28.2,
           "sub": {
             "above_ema20": 20.2,
             "above_sma50": 28.2,
@@ -623,7 +623,7 @@
       "pilares": {
         "amplitud": {
           "score": 0.0,
-          "primary": 26.5,
+          "primary": 31.5,
           "sub": {
             "above_ema20": 26.5,
             "above_sma50": 31.5,
@@ -725,7 +725,7 @@
       "pilares": {
         "amplitud": {
           "score": 0.0,
-          "primary": 20.4,
+          "primary": 26.5,
           "sub": {
             "above_ema20": 20.4,
             "above_sma50": 26.5,
@@ -827,7 +827,7 @@
       "pilares": {
         "amplitud": {
           "score": 0.0,
-          "primary": 21.1,
+          "primary": 25.5,
           "sub": {
             "above_ema20": 21.1,
             "above_sma50": 25.5,
@@ -929,7 +929,7 @@
       "pilares": {
         "amplitud": {
           "score": 0.0,
-          "primary": 12.4,
+          "primary": 18.4,
           "sub": {
             "above_ema20": 12.4,
             "above_sma50": 18.4,
@@ -1031,7 +1031,7 @@
       "pilares": {
         "amplitud": {
           "score": 0.0,
-          "primary": 21.6,
+          "primary": 23.1,
           "sub": {
             "above_ema20": 21.6,
             "above_sma50": 23.1,
@@ -1133,7 +1133,7 @@
       "pilares": {
         "amplitud": {
           "score": 0.0,
-          "primary": 23.6,
+          "primary": 24.9,
           "sub": {
             "above_ema20": 23.6,
             "above_sma50": 24.9,
@@ -1235,7 +1235,7 @@
       "pilares": {
         "amplitud": {
           "score": 0.0,
-          "primary": 30.0,
+          "primary": 27.9,
           "sub": {
             "above_ema20": 30.0,
             "above_sma50": 27.9,
@@ -1337,7 +1337,7 @@
       "pilares": {
         "amplitud": {
           "score": 0.0,
-          "primary": 24.6,
+          "primary": 23.7,
           "sub": {
             "above_ema20": 24.6,
             "above_sma50": 23.7,
@@ -1439,7 +1439,7 @@
       "pilares": {
         "amplitud": {
           "score": 0.0,
-          "primary": 16.0,
+          "primary": 20.2,
           "sub": {
             "above_ema20": 16.0,
             "above_sma50": 20.2,
@@ -1541,7 +1541,7 @@
       "pilares": {
         "amplitud": {
           "score": 0.0,
-          "primary": 18.6,
+          "primary": 20.3,
           "sub": {
             "above_ema20": 18.6,
             "above_sma50": 20.3,
@@ -1643,7 +1643,7 @@
       "pilares": {
         "amplitud": {
           "score": 0.0,
-          "primary": 37.8,
+          "primary": 25.2,
           "sub": {
             "above_ema20": 37.8,
             "above_sma50": 25.2,
@@ -1745,7 +1745,7 @@
       "pilares": {
         "amplitud": {
           "score": 0.5,
-          "primary": 43.9,
+          "primary": 27.2,
           "sub": {
             "above_ema20": 43.9,
             "above_sma50": 27.2,
@@ -1847,7 +1847,7 @@
       "pilares": {
         "amplitud": {
           "score": 0.5,
-          "primary": 48.2,
+          "primary": 29.8,
           "sub": {
             "above_ema20": 48.2,
             "above_sma50": 29.8,
@@ -1949,7 +1949,7 @@
       "pilares": {
         "amplitud": {
           "score": 0.5,
-          "primary": 51.8,
+          "primary": 32.5,
           "sub": {
             "above_ema20": 51.8,
             "above_sma50": 32.5,
@@ -2051,7 +2051,7 @@
       "pilares": {
         "amplitud": {
           "score": 0.5,
-          "primary": 49.5,
+          "primary": 32.4,
           "sub": {
             "above_ema20": 49.5,
             "above_sma50": 32.4,
@@ -2153,7 +2153,7 @@
       "pilares": {
         "amplitud": {
           "score": 0.5,
-          "primary": 74.7,
+          "primary": 45.1,
           "sub": {
             "above_ema20": 74.7,
             "above_sma50": 45.1,
@@ -2255,7 +2255,7 @@
       "pilares": {
         "amplitud": {
           "score": 0.5,
-          "primary": 69.3,
+          "primary": 46.3,
           "sub": {
             "above_ema20": 69.3,
             "above_sma50": 46.3,
@@ -2357,7 +2357,7 @@
       "pilares": {
         "amplitud": {
           "score": 0.5,
-          "primary": 62.9,
+          "primary": 44.0,
           "sub": {
             "above_ema20": 62.9,
             "above_sma50": 44.0,
@@ -2459,7 +2459,7 @@
       "pilares": {
         "amplitud": {
           "score": 0.5,
-          "primary": 71.7,
+          "primary": 51.1,
           "sub": {
             "above_ema20": 71.7,
             "above_sma50": 51.1,
@@ -2561,7 +2561,7 @@
       "pilares": {
         "amplitud": {
           "score": 1.0,
-          "primary": 71.9,
+          "primary": 53.9,
           "sub": {
             "above_ema20": 71.9,
             "above_sma50": 53.9,
@@ -2663,7 +2663,7 @@
       "pilares": {
         "amplitud": {
           "score": 0.5,
-          "primary": 69.2,
+          "primary": 53.9,
           "sub": {
             "above_ema20": 69.2,
             "above_sma50": 53.9,
@@ -2765,7 +2765,7 @@
       "pilares": {
         "amplitud": {
           "score": 0.5,
-          "primary": 71.7,
+          "primary": 55.5,
           "sub": {
             "above_ema20": 71.7,
             "above_sma50": 55.5,
@@ -2867,7 +2867,7 @@
       "pilares": {
         "amplitud": {
           "score": 1.0,
-          "primary": 79.4,
+          "primary": 66.0,
           "sub": {
             "above_ema20": 79.4,
             "above_sma50": 66.0,
@@ -2969,7 +2969,7 @@
       "pilares": {
         "amplitud": {
           "score": 1.0,
-          "primary": 79.2,
+          "primary": 66.5,
           "sub": {
             "above_ema20": 79.2,
             "above_sma50": 66.5,
@@ -3071,7 +3071,7 @@
       "pilares": {
         "amplitud": {
           "score": 1.0,
-          "primary": 72.1,
+          "primary": 63.0,
           "sub": {
             "above_ema20": 72.1,
             "above_sma50": 63.0,
@@ -3173,7 +3173,7 @@
       "pilares": {
         "amplitud": {
           "score": 1.0,
-          "primary": 67.1,
+          "primary": 61.0,
           "sub": {
             "above_ema20": 67.1,
             "above_sma50": 61.0,
