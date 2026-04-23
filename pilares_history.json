@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T10:07:55",
+  "generated_at": "2026-04-23T10:52:18",
   "count": 32,
   "records": [
     {
@@ -3237,10 +3237,10 @@
         },
         "volatilidad": {
           "score": 1.0,
-          "primary": 19.5,
+          "primary": 18.92,
           "sub": {
-            "vix_level": 19.5,
-            "vix_delta_20d": -5.83,
+            "vix_level": 18.92,
+            "vix_delta_20d": -6.41,
             "med_atr_ratio": 0.972,
             "m2_filter": "PASS"
           },
