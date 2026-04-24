@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T13:38:28",
+  "generated_at": "2026-04-24T15:31:39",
   "count": 33,
   "records": [
     {
@@ -3268,10 +3268,10 @@
     },
     {
       "date": "2026-04-23",
-      "overall_score": 5.0,
+      "overall_score": 4.5,
       "max_score": 6.0,
-      "pct": 83.3,
-      "regime": "RISK ON",
+      "pct": 75.0,
+      "regime": "NEUTRAL",
       "pilares": {
         "amplitud": {
           "score": 0.5,
@@ -3308,18 +3308,18 @@
           }
         },
         "perf_rel": {
-          "score": 1.0,
-          "primary": 3,
+          "score": 0.5,
+          "primary": 2,
           "sub": {
             "small_vs_large": "BULL",
             "growth_vs_value": "BULL",
-            "cons_disc_vs_staples": "BULL",
-            "bullish_count": 3
+            "cons_disc_vs_staples": "BEAR",
+            "bullish_count": 2
           },
           "checks": {
             "small_vs_large": true,
             "growth_vs_value": true,
-            "cons_disc_vs_staples": true
+            "cons_disc_vs_staples": false
           }
         },
         "flujo": {
