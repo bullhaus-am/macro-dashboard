@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T12:01:16",
+  "generated_at": "2026-07-02T11:01:40",
   "count": 80,
   "records": [
     {
@@ -8069,11 +8069,11 @@
       "pilares": {
         "amplitud": {
           "score": 1.0,
-          "primary": 62.9,
+          "primary": 62.7,
           "sub": {
-            "above_ema20": 64.0,
-            "above_sma50": 62.9,
-            "above_sma200": 59.6,
+            "above_ema20": 63.9,
+            "above_sma50": 62.7,
+            "above_sma200": 59.8,
             "state_ema20": "NEUTRAL",
             "state_sma50": "BULL",
             "state_sma200": "BULL",
@@ -8091,8 +8091,8 @@
           "primary": 0.18,
           "sub": {
             "avg_net_acc20": 0.18,
-            "pct_accumulating": 39.7,
-            "pct_distributing": 33.2,
+            "pct_accumulating": 39.8,
+            "pct_distributing": 33.4,
             "m1_filter": "PASS"
           },
           "checks": {
@@ -8137,7 +8137,7 @@
           "sub": {
             "vix_level": 16.59,
             "vix_delta_20d": 0.53,
-            "med_atr_ratio": 1.026,
+            "med_atr_ratio": 1.025,
             "m2_filter": "FAIL"
           },
           "checks": {
