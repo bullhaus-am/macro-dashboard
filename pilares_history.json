@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T04:49:21",
+  "generated_at": "2026-07-08T09:57:15",
   "count": 83,
   "records": [
     {
@@ -8377,7 +8377,7 @@
           "score": 1.0,
           "primary": 65.3,
           "sub": {
-            "above_ema20": 65.4,
+            "above_ema20": 65.5,
             "above_sma50": 65.3,
             "above_sma200": 62.5,
             "state_ema20": "NEUTRAL",
@@ -8398,7 +8398,7 @@
           "sub": {
             "avg_net_acc20": 0.28,
             "pct_accumulating": 42.2,
-            "pct_distributing": 29.6,
+            "pct_distributing": 29.5,
             "m1_filter": "PASS"
           },
           "checks": {
