@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T04:44:19",
+  "generated_at": "2026-07-10T08:13:53",
   "count": 85,
   "records": [
     {
@@ -8579,11 +8579,11 @@
       "pilares": {
         "amplitud": {
           "score": 1.0,
-          "primary": 62.5,
+          "primary": 62.6,
           "sub": {
             "above_ema20": 57.0,
-            "above_sma50": 62.5,
-            "above_sma200": 60.8,
+            "above_sma50": 62.6,
+            "above_sma200": 60.9,
             "state_ema20": "NEUTRAL",
             "state_sma50": "BULL",
             "state_sma200": "BULL",
@@ -8601,7 +8601,7 @@
           "primary": 0.17,
           "sub": {
             "avg_net_acc20": 0.17,
-            "pct_accumulating": 39.6,
+            "pct_accumulating": 39.7,
             "pct_distributing": 30.7,
             "m1_filter": "PASS"
           },
