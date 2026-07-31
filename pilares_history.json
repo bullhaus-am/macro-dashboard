@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T04:45:37",
+  "generated_at": "2026-07-31T10:56:46",
   "count": 100,
   "records": [
     {
@@ -10133,11 +10133,11 @@
             "avg_net_acc20": -0.06,
             "pct_accumulating": 33.9,
             "pct_distributing": 33.4,
-            "m1_filter": "PASS"
+            "m1_filter": "FAIL"
           },
           "checks": {
             "avg_net_acc20_positive": false,
-            "m1_pass": true,
+            "m1_pass": false,
             "pct_acc_above_dist": true
           }
         },
