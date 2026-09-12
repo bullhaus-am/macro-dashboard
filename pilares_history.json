@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T04:45:52",
-  "count": 129,
+  "generated_at": "2026-09-12T04:46:27",
+  "count": 130,
   "records": [
     {
       "date": "2026-03-06",
@@ -13152,6 +13152,108 @@
             "delta_sma100_10d": 8.42,
             "ivv_price": 761.53,
             "ivv_sma100": 749.67
+          },
+          "checks": {
+            "sp_momentum": true,
+            "delta_momentum": true
+          }
+        }
+      }
+    },
+    {
+      "date": "2026-09-11",
+      "overall_score": 2.5,
+      "max_score": 6.0,
+      "pct": 41.7,
+      "regime": "RISK OFF",
+      "pilares": {
+        "amplitud": {
+          "score": 0.0,
+          "primary": 37.0,
+          "sub": {
+            "above_ema20": 26.5,
+            "above_sma50": 37.0,
+            "above_sma200": 53.5,
+            "state_ema20": "BEAR",
+            "state_sma50": "BEAR",
+            "state_sma200": "NEUTRAL",
+            "sectors_positive": 0,
+            "avg_ma_state": 0.167
+          },
+          "checks": {
+            "ema20_bullish": false,
+            "sma50_bullish": false,
+            "sma200_bullish": false
+          }
+        },
+        "volumen": {
+          "score": 0.0,
+          "primary": -1.08,
+          "sub": {
+            "avg_net_acc20": -1.08,
+            "pct_accumulating": 23.2,
+            "pct_distributing": 37.8,
+            "m1_filter": "FAIL"
+          },
+          "checks": {
+            "avg_net_acc20_positive": false,
+            "m1_pass": false,
+            "pct_acc_above_dist": false
+          }
+        },
+        "perf_rel": {
+          "score": 0.0,
+          "primary": 0,
+          "sub": {
+            "small_vs_large": "BEAR",
+            "growth_vs_value": "BEAR",
+            "cons_disc_vs_staples": "BEAR",
+            "bullish_count": 0
+          },
+          "checks": {
+            "small_vs_large": false,
+            "growth_vs_value": false,
+            "cons_disc_vs_staples": false
+          }
+        },
+        "flujo": {
+          "score": 1.0,
+          "primary": 3,
+          "sub": {
+            "hy_vs_treasuries": "BULL",
+            "stocks_vs_gold": "BULL",
+            "stocks_vs_long_tsy": "BULL",
+            "risk_on_count": 3
+          },
+          "checks": {
+            "hy_vs_treasuries": true,
+            "stocks_vs_gold": true,
+            "stocks_vs_long_treasuries": true
+          }
+        },
+        "volatilidad": {
+          "score": 0.5,
+          "primary": 15.84,
+          "sub": {
+            "vix_level": 15.84,
+            "vix_delta_20d": 1.59,
+            "med_atr_ratio": 0.882,
+            "m2_filter": "PASS"
+          },
+          "checks": {
+            "vix_low": true,
+            "m2_pass": true,
+            "vix_trending_down": false
+          }
+        },
+        "momentum": {
+          "score": 1.0,
+          "primary": 2.36,
+          "sub": {
+            "ivv_vs_sma100_pct": 2.36,
+            "delta_sma100_10d": 7.85,
+            "ivv_price": 767.92,
+            "ivv_sma100": 750.25
           },
           "checks": {
             "sp_momentum": true,
