@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T04:46:11",
+  "generated_at": "2026-09-15T12:27:21",
   "count": 131,
   "records": [
     {
@@ -13353,9 +13353,9 @@
           "primary": 1.82,
           "sub": {
             "ivv_vs_sma100_pct": 1.82,
-            "delta_sma100_10d": 7.31,
-            "ivv_price": 764.48,
-            "ivv_sma100": 750.84
+            "delta_sma100_10d": 7.29,
+            "ivv_price": 762.28,
+            "ivv_sma100": 748.67
           },
           "checks": {
             "sp_momentum": true,
