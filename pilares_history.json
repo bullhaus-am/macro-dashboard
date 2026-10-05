@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T04:46:06",
+  "generated_at": "2026-10-05T08:47:12",
   "count": 145,
   "records": [
     {
@@ -14718,9 +14718,9 @@
         },
         "volumen": {
           "score": 0.0,
-          "primary": -2.79,
+          "primary": -2.8,
           "sub": {
-            "avg_net_acc20": -2.79,
+            "avg_net_acc20": -2.8,
             "pct_accumulating": 18.1,
             "pct_distributing": 48.0,
             "m1_filter": "FAIL"
