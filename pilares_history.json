@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T04:44:38",
+  "generated_at": "2026-10-08T11:44:03",
   "count": 148,
   "records": [
     {
@@ -15005,11 +15005,11 @@
       "pilares": {
         "amplitud": {
           "score": 0.0,
-          "primary": 25.6,
+          "primary": 26.4,
           "sub": {
-            "above_ema20": 32.6,
-            "above_sma50": 25.6,
-            "above_sma200": 42.0,
+            "above_ema20": 33.3,
+            "above_sma50": 26.4,
+            "above_sma200": 41.9,
             "state_ema20": "BEAR",
             "state_sma50": "BEAR",
             "state_sma200": "NEUTRAL",
@@ -15024,11 +15024,11 @@
         },
         "volumen": {
           "score": 0.0,
-          "primary": -2.13,
+          "primary": -1.94,
           "sub": {
-            "avg_net_acc20": -2.13,
-            "pct_accumulating": 21.2,
-            "pct_distributing": 43.9,
+            "avg_net_acc20": -1.94,
+            "pct_accumulating": 22.2,
+            "pct_distributing": 43.6,
             "m1_filter": "FAIL"
           },
           "checks": {
@@ -15073,7 +15073,7 @@
           "sub": {
             "vix_level": 15.08,
             "vix_delta_20d": -1.38,
-            "med_atr_ratio": 0.872,
+            "med_atr_ratio": 0.868,
             "m2_filter": "PASS"
           },
           "checks": {
